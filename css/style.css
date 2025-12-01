@@ -98,9 +98,10 @@ main > section {
 }
 
 .form-box > h1 {
+    text-align: left;
+    margin-left: 20px;
     margin-top: 0px;
     margin-bottom: 50px;
-    margin-left: -300px !important;
 }
 
 .form-control:focus,
