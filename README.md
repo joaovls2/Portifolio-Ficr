@@ -1,6 +1,6 @@
-# Meu Portifólio
+# Meu Portifólio 😁
 
-## Sobre o projeto:
+## Sobre o projeto 📌
 
 Este projeto consiste em uma das avaliações proposta pelo professor do meu curso de ADS.
 É basicamente um portifólio meu, falando brevemente sobre minha pessoa e minhas habilidades técnicas.
