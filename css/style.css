@@ -41,16 +41,14 @@ main > section {
    text-align: center;
 }
 
-@media (max-width: 1400px) {
 .saiba-container {
     margin-top: 50px;
     margin-left: 0;      
     justify-content: center; 
     flex-wrap: wrap;
 }
-     .saiba {
-        width: 100%;
-    }
+.saiba {
+     width: 100%;
 }
 
 .btn-primary {
@@ -88,19 +86,25 @@ main > section {
 }
 
 .cursos {
-     padding-bottom: 0px;
+     padding: 0px;
      margin-top: 0px;
+}
+
+.cursos-section {
+    margin-bottom: 0 !important;
 }
 
 .form-box {
     max-width: 500px;
-    margin-left: 0px; 
 }
 
-.form-box > h1 {
-    text-align: left;
-    margin-top: 0px;
-    margin-bottom: 50px;
+h1.mb-3.text-center {
+    margin-bottom: 50px !important;
+}
+
+.form-wrapper {
+    max-width: 600px;
+    width: 90%;
 }
 
 .form-control:focus,

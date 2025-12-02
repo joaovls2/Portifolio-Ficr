@@ -57,7 +57,7 @@
             de problemas, etc. Como também com as Hard Skills, como o Java, POO, entre outros. </p>
         </section>
         <section class="cursos" id="cursos">
-            <div class="container my-5">
+            <div class="container my-5 cursos-section">
              <h2 class="text-center mb-4">Cursos realizados</h2>
                <div class="row g-4">
                     <div class="col-12 col-md-4">
@@ -120,26 +120,31 @@
                </div>    
           </div>    
     </section>
-    <section class="container mt-4 form-box" id="contato">
-        <h1>Contato</h1>
-        <div class="form-floating mb-3">
-            <input type="text" class="form-control" id="floatingName" placeholder="Seu nome">
-            <label for="floatingName">Name</label>
-        </div>
+    <div class="d-flex justify-content-center align-items-center min-vh-100">
+        <section class="form-wrapper" id="contato">
+            <h1 class="mb-3 text-center">Contato</h1>
+            <form>
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="floatingName" placeholder="Seu nome">
+                <label for="floatingName">Nome</label>
+            </div>
 
-        <div class="form-floating mb-3">
-            <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com">
-            <label for="floatingEmail">Email</label>
-        </div>
+            <div class="form-floating mb-3">
+                <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com">
+                <label for="floatingEmail">Email</label>
+            </div>
 
-        <div class="form-floating">
-            <textarea class="form-control" placeholder="Deixe sua mensagem" id="floatingTextarea2" style="height: 100px"></textarea>
-            <label for="floatingTextarea2">Message</label>
-        </div>
-        <div class="d-grid gap-2 col-6 mx-auto">
-            <button class="btn btn-primary cont-btn" type="submit">Enviar</button>
-        </div>
-    </section>
+            <div class="form-floating mb-3">
+                <textarea class="form-control" placeholder="Deixe sua mensagem" id="floatingTextarea2" style="height: 100px"></textarea>
+                <label for="floatingTextarea2">Mensagem</label>
+            </div>
+
+            <div class="d-grid gap-2 col-6 mx-auto">
+                <button class="btn btn-primary cont-btn" type="submit">Enviar</button>
+            </div>
+            </form>
+        </section>
+    </div>
 </main>
 
 <footer class="footer py-3">
