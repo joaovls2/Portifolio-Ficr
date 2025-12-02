@@ -1,4 +1,4 @@
-# Meu Portifólio 😀
+# Meu Portifólio 
 
 ## Sobre o projeto 📌
 
