@@ -1,5 +1,5 @@
 # Meu Portifólio
----
+
 ## Sobre o projeto:
 
 Este projeto consiste em uma das avaliações proposta pelo professor do meu curso de ADS.
@@ -23,9 +23,3 @@ A plataforma para fazer o deploy ficou a escolha do aluno, eu escolhi
 o Versel, pois além de ser gratruíto, eu acho bem intuitivo. 
 
 URL do site: https://portifolio-ficr.vercel.app/
-
----
-
-
-
-
