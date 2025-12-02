@@ -20,6 +20,6 @@ Este projeto consiste em uma das avaliações proposta pelo professor do meu cur
 ## Deploy e URL do site 🚀
 
 A plataforma para fazer o deploy ficou a escolha do aluno, eu escolhi
-o Versel, pois além de ser gratruíto, eu acho bem intuitivo. 
+o Versel, pois além de ser gratuito, eu acho bem intuitivo. 
 
 URL do site: https://portifolio-ficr.vercel.app/
